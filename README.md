@@ -6,4 +6,4 @@ In this guide, we will be using the open-source sample project `Tanks` which is 
 
 ## Tutorial
 
-You can see the [full documentation here](https://docs.edgegap.com/)
+You can see the [full documentation here](https://docs.edgegap.com/docs/sample-projects/mirror-on-edgegap)
