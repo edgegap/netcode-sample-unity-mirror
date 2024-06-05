@@ -1,4 +1,4 @@
-# Netcode for Game Objects on Arbitrium
+# Mirror Netcode on Edgegap
 
 This guide will help you create a headless server on Edgegap for a Unity project using [Mirror](https://mirror-networking.com/) as its networking solution.
 
